@@ -1,1 +1,3 @@
 # learning_intern
+本文件用于学习agent开发实习所需要的技能
+从API调用大模型开始学习，直到从零到一做出一个agent开源项目
